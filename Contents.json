@@ -17,37 +17,37 @@
     "namePlates": [
         {
             "Author": "Rey",
-            "Package": "Community Hats",
-            "Name": "Test Plate A",
+            "Package": "StandardNamePlate",
+            "Name": "Color Plate - Blue",
             "Plate": {
-                "Address": "TestA.png",
+                "Address": "ColorBlue.png",
                 "Hash": "1"
             }
         },
         {
             "Author": "Rey",
-            "Package": "Community Hats",
-            "Name": "Test Plate B",
+            "Package": "StandardNamePlate",
+            "Name": "Color Plate - Green",
             "Plate": {
-                "Address": "TestB.png",
+                "Address": "ColorGreen.png",
                 "Hash": "1"
             }
         },
         {
             "Author": "Rey",
-            "Package": "Community Hats",
-            "Name": "Test Plate C",
+            "Package": "StandardNamePlate",
+            "Name": "Color Plate - Yellow",
             "Plate": {
-                "Address": "TestC.png",
+                "Address": "ColorYellow.png",
                 "Hash": "1"
             }
         },
         {
             "Author": "Rey",
-            "Package": "Community Hats",
-            "Name": "Test Plate D",
+            "Package": "StandardNamePlate",
+            "Name": "Color Plate - Red",
             "Plate": {
-                "Address": "TestD.png",
+                "Address": "ColorRed.png",
                 "Hash": "1"
             }
         }
