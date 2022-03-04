@@ -32,6 +32,24 @@
                 "Address": "TestB.png",
                 "Hash": "1"
             }
+        },
+        {
+            "Author": "Rey",
+            "Package": "Community Hats",
+            "Name": "Test Plate C",
+            "Plate": {
+                "Address": "TestC.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "Rey",
+            "Package": "Community Hats",
+            "Name": "Test Plate D",
+            "Plate": {
+                "Address": "TestD.png",
+                "Hash": "1"
+            }
         }
     ]
 }
