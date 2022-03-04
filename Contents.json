@@ -13,5 +13,25 @@
                 "Hash": "93325045c3b68a9de64274f9106b0d26"
             }
         }
+    ],
+    "namePlates": [
+        {
+            "Author": "Rey",
+            "Package": "Community Hats",
+            "Name": "Test Plate A",
+            "Plate": {
+                "Address": "TestA.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "Rey",
+            "Package": "Community Hats",
+            "Name": "Test Plate B",
+            "Plate": {
+                "Address": "TestB.png",
+                "Hash": "1"
+            }
+        }
     ]
 }
