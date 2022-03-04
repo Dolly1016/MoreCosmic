@@ -1,0 +1,17 @@
+{
+    "hats": [
+        {
+            "Author": "Dolly",
+            "Package": "Community Hats",
+            "Name": "Test Hat",
+            "Main": {
+                "Address": "Test.png",
+                "Hash": "1",
+            },
+            "Climb": {
+                "Address": "Test_Climb.png",
+                "Hash": "1",
+            }
+        },
+    ]
+}
