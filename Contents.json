@@ -2,7 +2,7 @@
     "namePlates": [
         {
             "Author": "Rey",
-            "Package": "StandardNamePlate",
+            "Package": "standardNameplate",
             "Name": "Color Plate - Blue",
             "Plate": {
                 "Address": "ColorBlue.png",
@@ -11,7 +11,7 @@
         },
         {
             "Author": "Rey",
-            "Package": "StandardNamePlate",
+            "Package": "standardNameplate",
             "Name": "Color Plate - Green",
             "Plate": {
                 "Address": "ColorGreen.png",
@@ -20,7 +20,7 @@
         },
         {
             "Author": "Rey",
-            "Package": "StandardNamePlate",
+            "Package": "standardNameplate",
             "Name": "Color Plate - Yellow",
             "Plate": {
                 "Address": "ColorYellow.png",
@@ -29,7 +29,7 @@
         },
         {
             "Author": "Rey",
-            "Package": "StandardNamePlate",
+            "Package": "standardNameplate",
             "Name": "Color Plate - Red",
             "Plate": {
                 "Address": "ColorRed.png",
