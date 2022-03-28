@@ -1,18 +1,6 @@
 {
     "hats": [
-        {
-            "Author": "Dolly",
-            "Package": "Community Hats",
-            "Name": "Test Hat",
-            "Main": {
-                "Address": "Test.png",
-                "Hash": "11748c333094d4b615eb683a771b72be"
-            },
-            "Climb": {
-                "Address": "TestClimb.png",
-                "Hash": "93325045c3b68a9de64274f9106b0d26"
-            }
-        }
+        
     ],
     "namePlates": [
         {
