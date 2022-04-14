@@ -35,6 +35,24 @@
                 "Address": "ColorRed.png",
                 "Hash": "1"
             }
+        },
+        {
+            "Author": "ç˜ót",
+            "Package": "nosCommNameplate",
+            "Name": "Sakura",
+            "Plate": {
+                "Address": "Sakura.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "Rey",
+            "Package": "nosCommNameplate",
+            "Name": "Transparent",
+            "Plate": {
+                "Address": "Transparent.png",
+                "Hash": "1"
+            }
         }
     ]
 }
