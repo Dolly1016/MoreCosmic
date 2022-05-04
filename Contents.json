@@ -64,11 +64,11 @@
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "1"
-            }
+            },
             "Back": {
                 "Address": "Cat_Back.png",
                 "Hash": "1"
-            }
+            },
             "Main": {
                 "Address": "Cat_Climb.png",
                 "Hash": "1"
