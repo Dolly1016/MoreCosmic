@@ -6,7 +6,7 @@
             "Name": "Color Plate - Blue",
             "Plate": {
                 "Address": "ColorBlue.png",
-                "Hash": "1"
+                "Hash": "07c15ae2adafa75da17ef19aa28b79c2"
             }
         },
         {
@@ -15,7 +15,7 @@
             "Name": "Color Plate - Green",
             "Plate": {
                 "Address": "ColorGreen.png",
-                "Hash": "1"
+                "Hash": "cef3439b7c45bd7f34f34b2d8791a13d"
             }
         },
         {
@@ -24,7 +24,7 @@
             "Name": "Color Plate - Yellow",
             "Plate": {
                 "Address": "ColorYellow.png",
-                "Hash": "1"
+                "Hash": "5789cd76792382455f62ad965af98e1e"
             }
         },
         {
@@ -33,7 +33,7 @@
             "Name": "Color Plate - Red",
             "Plate": {
                 "Address": "ColorRed.png",
-                "Hash": "1"
+                "Hash": "4973ae4258acb6601d9b5bc3cd30ad3b"
             }
         },
         {
@@ -42,7 +42,7 @@
             "Name": "Sakura",
             "Plate": {
                 "Address": "Sakura.png",
-                "Hash": "1"
+                "Hash": "05a998cb7f33f91130b77c0ce05d5ab6"
             }
         },
         {
@@ -51,6 +51,26 @@
             "Name": "Transparent",
             "Plate": {
                 "Address": "Transparent.png",
+                "Hash": "54a258931cb8f41250d2d0ea7854e501"
+            }
+        }
+    ]
+    "hats": [
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Cat",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Cat.png",
+                "Hash": "1"
+            }
+            "Back": {
+                "Address": "Cat_Back.png",
+                "Hash": "1"
+            }
+            "Main": {
+                "Address": "Cat_Climb.png",
                 "Hash": "1"
             }
         }
