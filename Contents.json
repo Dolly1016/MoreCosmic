@@ -60,18 +60,20 @@
             "Author": "catudon",
             "Package": "nosCommHat",
             "Name": "Cat",
+            "Bounce": "false",
             "Adaptive": "true",
+            "Behind": "false",
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "1"
             },
             "Back": {
                 "Address": "Cat_Back.png",
-                "Hash": "1"
+                "Hash": "98b21505074bc4502ded7a226180c710"
             },
             "Main": {
                 "Address": "Cat_Climb.png",
-                "Hash": "1"
+                "Hash": "a159004244f35f7d454b164272427c16"
             }
         }
     ]
