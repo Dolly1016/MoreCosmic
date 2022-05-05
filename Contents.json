@@ -75,6 +75,46 @@
                 "Address": "Cat_Climb.png",
                 "Hash": "a159004244f35f7d454b164272427c16"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Koala",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Koala.png",
+                "Hash": "1"
+            },
+            "Climb": {
+                "Address": "Koala_Climb.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Busho(Blue)",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Busho(Blue).png",
+                "Hash": "1"
+            },
+            "Back": {
+                "Address": "Busho(Blue)_Back.png",
+                "Hash": "1"
+            },
+            "Flip": {
+                "Address": "Busho(Blue)_Flip.png",
+                "Hash": "1"
+            },
+            "Climb": {
+                "Address": "Busho(Blue)_Climb.png",
+                "Hash": "1"
+            }
         }
     ]
 }
