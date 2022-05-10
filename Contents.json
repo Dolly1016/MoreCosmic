@@ -287,19 +287,6 @@
                 "Address": "Vessel_Climb.png",
                 "Hash": "1"
             }
-        },
-        {
-            "Author": "Dolly",
-            "Package": "nosCommHat",
-            "Name": "Test",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "Test.png",
-                "Hash": "1",
-                "Length": "2"
-            }
         }
     ]
 }
