@@ -297,7 +297,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Test.png",
-                "Hash": "1"
+                "Hash": "1",
                 "Length": "2"
             }
         }
