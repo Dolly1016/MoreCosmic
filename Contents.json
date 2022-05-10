@@ -299,6 +299,16 @@
                 "Address": "Beard.png",
                 "Hash": "1"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Cat",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Cat.png",
+                "Hash": "1"
+            }
         }
     ]
 }
