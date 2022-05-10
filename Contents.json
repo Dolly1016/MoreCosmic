@@ -288,5 +288,17 @@
                 "Hash": "1"
             }
         }
+    ],
+    "visors": [
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Beard",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Beard.png",
+                "Hash": "1"
+            }
+        }
     ]
 }
