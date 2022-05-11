@@ -309,6 +309,86 @@
                 "Address": "Cat.png",
                 "Hash": "1"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Darkness",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Darkness.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Glass - Heart",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Glass(Heart).png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Glass - Round",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Glass(Round).png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Shy",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Shy.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Sleepy",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Sleep.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Sword Scar",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "SwordScar.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Thorns",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Thorns.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Tabacco Pipes",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "TabaccoPipes.png",
+                "Hash": "1"
+            }
         }
     ]
 }
