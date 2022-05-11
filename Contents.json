@@ -316,7 +316,7 @@
             "Name": "Darkness",
             "Adaptive": "false",
             "Main": {
-                "Address": "Darkness.png",
+                "Address": "Dark.png",
                 "Hash": "1"
             }
         },
