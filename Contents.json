@@ -53,6 +53,15 @@
                 "Address": "Transparent.png",
                 "Hash": "54a258931cb8f41250d2d0ea7854e501"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommNameplate",
+            "Name": "Vitals",
+            "Plate": {
+                "Address": "Vitals.png",
+                "Hash": "1"
+            }
         }
     ],
     "hats": [
@@ -368,16 +377,6 @@
             "Main": {
                 "Address": "SwordScar.png",
                 "Hash": "0c8bca6bd0826ba6d8860b1f9b8a51d6"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "nosCommVisor",
-            "Name": "Thorns",
-            "Adaptive": "true",
-            "Main": {
-                "Address": "Thorns.png",
-                "Hash": "6866c8e45c573b9379285793902a888d"
             }
         },
         {
