@@ -104,6 +104,42 @@
         {
             "Author": "catudon",
             "Package": "nosCommHat",
+            "Name": "Bear",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Bear.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Bear_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Dog",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Dog.png",
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "Dog_Back.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Dog_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
             "Name": "Busho(Blue)",
             "Bounce": "true",
             "Adaptive": "false",
@@ -265,6 +301,22 @@
         {
             "Author": "catudon",
             "Package": "nosCommHat",
+            "Name": "Easter Egg",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "EasterEgg.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "EasterEgg_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
             "Name": "Queens Guard",
             "Bounce": "false",
             "Adaptive": "false",
@@ -297,6 +349,182 @@
             "Climb": {
                 "Address": "Vessel_Climb.png",
                 "Hash": "df42b06500caeff24c9cb7a8ae15f392"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Artist",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "HideHands": "true",
+            "Main": {
+                "Address": "Artist.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Artist_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Bachelor's Cap",
+            "Bounce": "true",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "BachelorsCap.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "BachelorsCap_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Baseball",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Baseball.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Baseball_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Eboshi",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "true",
+            "Main": {
+                "Address": "Eboshi.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Eboshi_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "German",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "German.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "German_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Headband",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Headband.png",
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "Headband_Back.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Headband_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Headphone",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Headphone.png",
+                "Hash": "0"
+            },
+            "Back": {
+                "Address": "Headphone_Back.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Headphone_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Statue of Liberty",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "HideHands": "true",
+            "Main": {
+                "Address": "StatueOfLiberty.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "StatueOfLiberty_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Turban",
+            "Bounce": "true",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Turban.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Turban_Climb.png",
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+            "Name": "Dash",
+            "Bounce": "true",
+            "Adaptive": "false",
+            "Behind": "false",
+            "SecPerFrame": "0.2",
+            "Main": {
+                "Address": "Empty.png",
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Empty.png",
+                "Hash": "0"
+            },
+            "Move": {
+                "Address": "Dash.png",
+                "Hash": "0",
+                "Length": "3"
             }
         }
     ],
