@@ -509,10 +509,10 @@
             "Author": "catudon",
             "Package": "nosCommHat",
             "Name": "Dash",
-            "Bounce": "true",
+            "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
-            "SecPerFrame": "0.2",
+            "FPS": "5",
             "Main": {
                 "Address": "Empty.png",
                 "Hash": "0"
