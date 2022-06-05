@@ -356,7 +356,7 @@
             "Package": "nosCommHat",
             "Name": "Artist",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
             "Main": {
@@ -405,7 +405,7 @@
             "Package": "nosCommHat",
             "Name": "Eboshi",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "true",
             "Main": {
                 "Address": "Eboshi.png",
@@ -457,7 +457,7 @@
             "Package": "nosCommHat",
             "Name": "Headphone",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "Main": {
                 "Address": "Headphone.png",
