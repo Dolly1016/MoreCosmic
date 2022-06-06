@@ -406,7 +406,7 @@
             "Name": "Eboshi",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "true",
+            "Behind": "false",
             "Main": {
                 "Address": "Eboshi.png",
                 "Hash": "0"
