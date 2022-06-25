@@ -62,6 +62,24 @@
                 "Address": "Vitals.png",
                 "Hash": "1"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommNameplate",
+            "Name": "Downloading",
+            "Plate": {
+                "Address": "Downloading.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommNameplate",
+            "Name": "Blackboard",
+            "Plate": {
+                "Address": "Blackboard.png",
+                "Hash": "1"
+            }
         }
     ],
     "hats": [
@@ -616,6 +634,66 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "TabaccoPipes.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Smile",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Smile.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Blindfold",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Blindfold.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Pacifier",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Pacifier.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Eyemask",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Eyemask.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Fulu",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Fulu.png",
+                "Hash": "1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+            "Name": "Angry",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Angry.png",
                 "Hash": "1"
             }
         }
