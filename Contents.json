@@ -553,10 +553,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "zennkopasu2.png"
+                "Address": "zennkopasu2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "zennkopasu2_c.png"
+                "Address": "zennkopasu2_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -567,10 +569,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "zennkopasu.png"
+                "Address": "zennkopasu.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "zennkopasu_c.png"
+                "Address": "zennkopasu_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -581,10 +585,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "maryo2.png"
+                "Address": "maryo2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "maryo2_c.png"
+                "Address": "maryo2_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -595,10 +601,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "maryo1.png"
+                "Address": "maryo1.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "maryo1_c.png"
+                "Address": "maryo1_c.png",
+                "Hash": "0"
             }
         },   
         {
@@ -609,10 +617,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "iemon2.png"
+                "Address": "iemon2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "iemon2_c.png"
+                "Address": "iemon2_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -623,10 +633,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "iemon.png"
+                "Address": "iemon.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "iemon_c.png"
+                "Address": "iemon_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -637,13 +649,16 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "gusao2.png"
+                "Address": "gusao2.png",
+                "Hash": "0"
             },
             "Back": {
-                "Address": "gusao2_b.png"
+                "Address": "gusao2_b.png",
+                "Hash": "0"
             }, 
             "Climb": {
-                "Address": "gusao2_c.png"
+                "Address": "gusao2_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -654,10 +669,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "gusao.png"
+                "Address": "gusao.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "gusao_c.png"
+                "Address": "gusao_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -668,7 +685,8 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "ganmasu2.png"
+                "Address": "ganmasu2.png",
+                "Hash": "0"
             }
         },
         {
@@ -679,10 +697,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "ganmasu.png"
+                "Address": "ganmasu.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "ganmasu_c.png"
+                "Address": "ganmasu_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -693,10 +713,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "hatimanguu2.png"
+                "Address": "hatimanguu2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "hatimanguu2_c.png"
+                "Address": "hatimanguu2_c.png",
+                "Hash": "0"
             }
         },     
         {
@@ -707,10 +729,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "hatimanguu.png"
+                "Address": "hatimanguu.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "hatimanguu_c.png"
+                "Address": "hatimanguu_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -721,10 +745,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "hinaruka2.png"
+                "Address": "hinaruka2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "hinaruka2_c.png"
+                "Address": "hinaruka2_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -735,10 +761,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "hinaruka1.png"
+                "Address": "hinaruka1.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "hinaruka1_c.png"
+                "Address": "hinaruka1_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -749,10 +777,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "meteo2.png"
+                "Address": "meteo2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "meteo2_c.png"
+                "Address": "meteo2_c.png",
+                "Hash": "0"
             }
         },     
         {
@@ -763,10 +793,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "meteo.png"
+                "Address": "meteo.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "meteo_c.png"
+                "Address": "meteo_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -777,7 +809,8 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "Sreimari2.png"
+                "Address": "Sreimari2.png",
+                "Hash": "0"
             }
         },
         {
@@ -788,10 +821,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "Sreimari.png"
+                "Address": "Sreimari.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "Sreimari_c.png"
+                "Address": "Sreimari_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -802,13 +837,16 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "mizore2.png"
+                "Address": "mizore2.png",
+                "Hash": "0"
             },
             "Back": {
-                "Address": "mizore2_b.png"
+                "Address": "mizore2_b.png",
+                "Hash": "0"
             }, 
             "Climb":{
-                "Address": "mizore2_c.png"
+                "Address": "mizore2_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -819,13 +857,16 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "mizore.png"
+                "Address": "mizore.png",
+                "Hash": "0"
             },
             "Back": {
-                "Address": "mizore_b.png"
+                "Address": "mizore_b.png",
+                "Hash": "0"
             }, 
             "Climb":{
-                "Address": "mizore_c.png"
+                "Address": "mizore_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -836,10 +877,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "latte2.png"
+                "Address": "latte2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "latte2_c.png"
+                "Address": "latte2_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -850,13 +893,16 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "latte.png"
+                "Address": "latte.png",
+                "Hash": "0"
             },
             "Back": {
-                "Address": "latte_b.png"
+                "Address": "latte_b.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "latte_c.png"
+                "Address": "latte_c.png",
+                "Hash": "0"
             }
         },
         {
@@ -867,10 +913,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "upaparon2.png"
+                "Address": "upaparon2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "upaparon2_c.png"
+                "Address": "upaparon2_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -881,10 +929,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "upaparon.png"
+                "Address": "upaparon.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "upaparon_c.png"
+                "Address": "upaparon_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -895,10 +945,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "reira-2.png"
+                "Address": "reira-2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "reira-2_c.png"
+                "Address": "reira-2_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -909,10 +961,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "reira-.png"
+                "Address": "reira-.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "reira-_c.png"
+                "Address": "reira-_c.png",
+                "Hash": "0"
             }
         },  
         {
@@ -923,10 +977,12 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "memenntomori2.png"
+                "Address": "memenntomori2.png",
+                "Hash": "0"
             },
             "Climb": {
-                "Address": "memenntomori2_c.png"
+                "Address": "memenntomori2_c.png",
+                "Hash": "0"
             }
         }, 
         {
@@ -937,13 +993,16 @@
             "Adaptive": "false",
             "Behind": "false",
             "Main": {
-                "Address": "memenntomori.png" 
+                "Address": "memenntomori.png" ,
+                "Hash": "0"
             },
             "Back": {
-                "Address": "memenntomori_b.png"
+                "Address": "memenntomori_b.png",
+                "Hash": "0"
             }, 
             "Climb": {
-                "Address": "memenntomori_c.png"
+                "Address": "memenntomori_c.png",
+                "Hash": "0"
             }
         }
     ],
