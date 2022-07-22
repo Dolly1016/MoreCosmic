@@ -325,11 +325,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "EasterEgg.png",
-                "Hash": "0"
+                "Hash": "a8f398f71b77ecde4cb222c855c8f92c"
             },
             "Climb": {
                 "Address": "EasterEgg_Climb.png",
-                "Hash": "0"
+                "Hash": "6371187a34d89eb4ec7bf4331381f9cd"
             }
         },
         {
