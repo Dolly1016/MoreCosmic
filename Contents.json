@@ -144,11 +144,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Dog.png",
-                "Hash": "a052fa73bb86a6ce89e6fda5db49c765"
+                "Hash": "0"
             },
             "Climb": {
                 "Address": "Dog_Climb.png",
-                "Hash": "4654aa356123aad261a162f09272f4b8"
+                "Hash": "0"
             }
         },
         {
@@ -241,11 +241,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Maid.png",
-                "Hash": "e259001174531ad950174eed122e930f"
+                "Hash": "0"
             },
             "Climb": {
                 "Address": "Maid_Climb.png",
-                "Hash": "3dad506a80d45971a267cf7f882e6382"
+                "Hash": "0"
             }
         },
         {
@@ -475,15 +475,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "Headphone.png",
-                "Hash": "c82c9a814d85b1766d7c2c0cc3313dc7"
+                "Hash": "0"
             },
             "Back": {
                 "Address": "Headphone_Back.png",
-                "Hash": "1b1cbf550f46d606bf50a5fa1d0238a5"
+                "Hash": "0"
             },
             "Climb": {
                 "Address": "Headphone_Climb.png",
-                "Hash": "f5b503c9b5059f61f5a6255e6becab4e"
+                "Hash": "0"
             }
         },
         {
@@ -1226,6 +1226,8 @@
 		    }
 		},
 		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
 		    "Name" : "Can",
 		    "Bounce": "false",
 		    "Adaptive": "true",
