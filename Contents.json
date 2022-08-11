@@ -1201,11 +1201,11 @@
                 "Hash": "0"
 		    },
 		    "Back" : {
-		        "Address": "Dragon_b.png",
+		        "Address": "Dragon_Back.png",
                 "Hash": "0"
 		    },
 		    "Climb": {
-		        "Address": "Dragon_c.png",
+		        "Address": "Dragon_Climb.png",
                 "Hash": "0"
 		    }
 		},
@@ -1221,11 +1221,11 @@
                 "Hash": "0"
 		    },
 		    "Back":{
-		        "Address":"Delivery_b.png",
+		        "Address":"Delivery_Back.png",
                 "Hash": "0"
 		    },
 		    "Climb": {
-		        "Address": "Delivery_c.png",
+		        "Address": "Delivery_Climb.png",
                 "Hash": "0"
 		    }
 		},
@@ -1235,10 +1235,12 @@
 		    "Adaptive": "true",
 		    "Behind": "false",
 		    "Main": {
-		        "Address": "Can.png"
+		        "Address": "Can.png",
+                "Hash": "0"
 		    },
 		    "Climb": {
-		        "Address": "Can_Climb.png"
+		        "Address": "Can_Climb.png",
+                "Hash": "0"
 		    }
 		}
     ],
