@@ -1392,6 +1392,46 @@
                 "Address": "Angry.png",
                 "Hash": "ae33c32e7494c40de67ff312a095e000"
             }
-        }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+		    "Name" : "Dog",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Dog.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+		    "Name" : "Drunk",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Drunk.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+		    "Name" : "Eyemask3",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Eyemask3.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommVisor",
+		    "Name" : "Eyemask2",
+		    "Adaptive": "true",
+		    "Main": {
+		        "Address": "Eyemask2.png",
+                "Hash": "0"
+		    }
+		}
     ]
 }
