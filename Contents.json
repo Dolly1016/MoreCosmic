@@ -146,10 +146,6 @@
                 "Address": "Dog.png",
                 "Hash": "a052fa73bb86a6ce89e6fda5db49c765"
             },
-            "Back": {
-                "Address": "Dog_Back.png",
-                "Hash": "d87de4fea032b0efd1961b9918221c34"
-            },
             "Climb": {
                 "Address": "Dog_Climb.png",
                 "Hash": "4654aa356123aad261a162f09272f4b8"
