@@ -1004,7 +1004,243 @@
                 "Address": "memenntomori_c.png",
                 "Hash": "1d369dc040c7594a5d7599f8a22e75af"
             }
-        }
+        },
+        {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+	        "Name" : "Adventurer",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Adventurer.png",
+                "Hash": "0"
+		    },
+		    "Back":{
+		        "Address":"Adventurer_Back.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Adventurer_Climb.png",
+                "Hash": "0"
+		    }
+	    },
+	    {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Threehair",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Threehair.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Threehair_Climb.png",
+                "Hash": "0"
+		    }
+	    },
+	    {
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Siren",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "FPS":"7",
+		    "Main": {
+		        "Address": "Siren.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Siren_Climb.png",
+                "Hash": "0"
+		    },
+		    "Move": {
+		        "Address": "Siren_Move.png",
+		        "Length":"2",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Pirate",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Pirate.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Pirate_Climb.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Leaf",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Leaf.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Leaf_Climb.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Lantern",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "FPS": "3",
+		    "Main": {
+		        "Address": "Lantern.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Lantern_Climb.png",
+                "Hash": "0"
+		    },
+		    "Move": {
+		        "Address": "Lantern_Move.png",
+		        "Length":"7",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Kyomuso",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Kyomuso.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Kyomuso_Climb.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Hikyaku",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Hikyaku.png",
+                "Hash": "0"
+		    },
+		    "Back":{
+		        "Address":"Hikyaku_Back.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Hikyaku_Climb.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Floating",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Float.png",
+                "Hash": "0"
+		    },
+		    "Back":{
+		        "Address":"Float_Back.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Float_Climb.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Drunk",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Drunk.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Drunk_c.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Dragon",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Dragon.png",
+                "Hash": "0"
+		    },
+		    "Back" : {
+		        "Address": "Dragon_b.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Dragon_c.png",
+                "Hash": "0"
+		    }
+		},
+		{
+            "Author": "catudon",
+            "Package": "nosCommHat",
+		    "Name" : "Delivery",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Delivery.png",
+                "Hash": "0"
+		    },
+		    "Back":{
+		        "Address":"Delivery_b.png",
+                "Hash": "0"
+		    },
+		    "Climb": {
+		        "Address": "Delivery_c.png",
+                "Hash": "0"
+		    }
+		},
+		{
+		    "Name" : "Can",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Can.png"
+		    },
+		    "Climb": {
+		        "Address": "Can_Climb.png"
+		    }
+		}
     ],
     "visors": [
         {
