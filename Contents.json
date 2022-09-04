@@ -1433,5 +1433,12 @@
                 "Hash": "0"
 		    }
 		}
-    ]
+    ],
+    "packages": [
+	    {
+	        "Package": "mememura",
+	        "Format": "\u3081\u3081\u6751 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+	        "Priority" : "501"
+	    }
+	]
 }
