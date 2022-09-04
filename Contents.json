@@ -144,11 +144,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Dog.png",
-                "Hash": "0"
+                "Hash": "bdba934a0438cec0f27474a6839bb849"
             },
             "Climb": {
                 "Address": "Dog_Climb.png",
-                "Hash": "0"
+                "Hash": "cbd23f951cb15a3398df4dc26051fb41"
             }
         },
         {
@@ -241,11 +241,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Maid.png",
-                "Hash": "0"
+                "Hash": "ab1d60ead02ce47c7417fec70d06268b"
             },
             "Climb": {
                 "Address": "Maid_Climb.png",
-                "Hash": "0"
+                "Hash": "3fc27e6a94d3c6b8487a5a7359798686"
             }
         },
         {
@@ -475,15 +475,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "Headphone.png",
-                "Hash": "0"
+                "Hash": "7a811b8016916d52382c1e7049a7c584"
             },
             "Back": {
                 "Address": "Headphone_Back.png",
-                "Hash": "0"
+                "Hash": "06e0cb77d7844397c1ef2d4ab288dfab"
             },
             "Climb": {
                 "Address": "Headphone_Climb.png",
-                "Hash": "0"
+                "Hash": "9e3c167a6df50990e92d12fbb4cb332d"
             }
         },
         {
@@ -1010,15 +1010,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Adventurer.png",
-                "Hash": "0"
+                "Hash": "21fcab33fc6830c2dd2819580d3a180b"
 		    },
 		    "Back":{
 		        "Address":"Adventurer_Back.png",
-                "Hash": "0"
+                "Hash": "990742fc9e99354c67488dc88eb79606"
 		    },
 		    "Climb": {
 		        "Address": "Adventurer_Climb.png",
-                "Hash": "0"
+                "Hash": "d23345face16b67e77159ef647dff365"
 		    }
 	    },
 	    {
@@ -1030,11 +1030,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Threehair.png",
-                "Hash": "0"
+                "Hash": "e65e901a06e63b4f6ae9979508cbbaee"
 		    },
 		    "Climb": {
 		        "Address": "Threehair_Climb.png",
-                "Hash": "0"
+                "Hash": "11f707019aa4c2da46565093a6e22e60"
 		    }
 	    },
 	    {
@@ -1047,16 +1047,16 @@
 		    "FPS":"7",
 		    "Main": {
 		        "Address": "Siren.png",
-                "Hash": "0"
+                "Hash": "db8382a7e55881243b66351282e55a53"
 		    },
 		    "Climb": {
 		        "Address": "Siren_Climb.png",
-                "Hash": "0"
+                "Hash": "e935526a922dd60451013e8c015b523b"
 		    },
 		    "Move": {
 		        "Address": "Siren_Move.png",
 		        "Length":"2",
-                "Hash": "0"
+                "Hash": "d98d3705137a1d1d2b3ad9169e7068a4"
 		    }
 		},
 		{
@@ -1068,11 +1068,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Pirate.png",
-                "Hash": "0"
+                "Hash": "ae923682f79e111c1bf2114334968ee8"
 		    },
 		    "Climb": {
 		        "Address": "Pirate_Climb.png",
-                "Hash": "0"
+                "Hash": "e3674fc0a4c9a145f832b4bdbd194a06"
 		    }
 		},
 		{
@@ -1084,11 +1084,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Leaf.png",
-                "Hash": "0"
+                "Hash": "f4cf70b08f7a4aa793472cdc55aae19e"
 		    },
 		    "Climb": {
 		        "Address": "Leaf_Climb.png",
-                "Hash": "0"
+                "Hash": "f22dedddc63d73625ddf96fb978f1c8d"
 		    }
 		},
 		{
@@ -1101,16 +1101,16 @@
 		    "FPS": "3",
 		    "Main": {
 		        "Address": "Lantern.png",
-                "Hash": "0"
+                "Hash": "fd6d7991541077892bbdfdce7b797d5b"
 		    },
 		    "Climb": {
 		        "Address": "Lantern_Climb.png",
-                "Hash": "0"
+                "Hash": "1b7cb7b242ce0713a109991376c42c63"
 		    },
 		    "Move": {
 		        "Address": "Lantern_Move.png",
 		        "Length":"7",
-                "Hash": "0"
+                "Hash": "a92d2bb94aeb67c925c0f0a62296fa20"
 		    }
 		},
 		{
@@ -1122,11 +1122,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Kyomuso.png",
-                "Hash": "0"
+                "Hash": "e48528d7ae60eb7b21d09679269c8734"
 		    },
 		    "Climb": {
 		        "Address": "Kyomuso_Climb.png",
-                "Hash": "0"
+                "Hash": "0da4ab73c075527d8678cf39186d6fa6"
 		    }
 		},
 		{
@@ -1138,15 +1138,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Hikyaku.png",
-                "Hash": "0"
+                "Hash": "f7fd62dbe669abc3b3657ea021d45af8"
 		    },
 		    "Back":{
 		        "Address":"Hikyaku_Back.png",
-                "Hash": "0"
+                "Hash": "33d8f37a694d3bd61c7ad07bc483bd0f"
 		    },
 		    "Climb": {
 		        "Address": "Hikyaku_Climb.png",
-                "Hash": "0"
+                "Hash": "838f1ee60b6e6fcceeb7bb7e18d21d2e"
 		    }
 		},
 		{
@@ -1158,15 +1158,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Float.png",
-                "Hash": "0"
+                "Hash": "6d6796980c854a27f927fb2817ecd92f"
 		    },
 		    "Back":{
 		        "Address":"Float_Back.png",
-                "Hash": "0"
+                "Hash": "ae03a0148ea2728a53475d03e0245302"
 		    },
 		    "Climb": {
 		        "Address": "Float_Climb.png",
-                "Hash": "0"
+                "Hash": "d883f80daea0aa3d467be177b9fe5ac3"
 		    }
 		},
 		{
@@ -1178,11 +1178,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Drunk.png",
-                "Hash": "0"
+                "Hash": "23b5b79abf616bd662d319df91f58e80"
 		    },
 		    "Climb": {
 		        "Address": "Drunk_Climb.png",
-                "Hash": "0"
+                "Hash": "c23d64a4c82882401589eee25ce3f264"
 		    }
 		},
 		{
@@ -1194,15 +1194,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Dragon.png",
-                "Hash": "0"
+                "Hash": "807ecc483e5ba61c48f401361275acda"
 		    },
 		    "Back" : {
 		        "Address": "Dragon_Back.png",
-                "Hash": "0"
+                "Hash": "807ecc483e5ba61c48f401361275acda"
 		    },
 		    "Climb": {
 		        "Address": "Dragon_Climb.png",
-                "Hash": "0"
+                "Hash": "b5b49b63463d7e78edd4e3c3fd012aa6"
 		    }
 		},
 		{
@@ -1214,15 +1214,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Delivery.png",
-                "Hash": "0"
+                "Hash": "19b457fc744e1bc1b78b2301678951f9"
 		    },
 		    "Back":{
 		        "Address":"Delivery_Back.png",
-                "Hash": "0"
+                "Hash": "d38de06332caab16ed11d8fa2811585d"
 		    },
 		    "Climb": {
 		        "Address": "Delivery_Climb.png",
-                "Hash": "0"
+                "Hash": "3b0cb7f45e82226bde1c77da97c05138"
 		    }
 		},
 		{
@@ -1234,11 +1234,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Can.png",
-                "Hash": "0"
+                "Hash": "0ce5ddf58173eba6a2c56a375987dcc3"
 		    },
 		    "Climb": {
 		        "Address": "Can_Climb.png",
-                "Hash": "0"
+                "Hash": "f379a19deeededc42d425be6fcde9d28"
 		    }
 		}
     ],
