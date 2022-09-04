@@ -1425,20 +1425,13 @@
 		},
 		{
             "Author": "catudon",
-            "Package": "test",
+            "Package": "nosCommVisor",
 		    "Name" : "Eyemask2",
 		    "Adaptive": "true",
 		    "Main": {
 		        "Address": "Eyemask2.png",
                 "Hash": "0"
 		    }
-		}
-    ],
-    "packages": [
-    	{
-            "Key": "test",
-            "Format": "TEST",
-		    "Priority" : "0"
 		}
     ]
 }
