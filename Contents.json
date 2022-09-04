@@ -1194,7 +1194,7 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Dragon.png",
-                "Hash": "807ecc483e5ba61c48f401361275acda"
+                "Hash": "84a69b1997e6ee03ef75ff5f9eb3c486"
 		    },
 		    "Back" : {
 		        "Address": "Dragon_Back.png",
@@ -1400,7 +1400,7 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Dog.png",
-                "Hash": "0"
+                "Hash": "4dad636d80d926ce0032ae0d436afacd"
 		    }
 		},
 		{
@@ -1410,7 +1410,7 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Drunk.png",
-                "Hash": "0"
+                "Hash": "904224e7f5de7b77f85c2c654fcca7fe"
 		    }
 		},
 		{
@@ -1420,7 +1420,7 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Eyemask3.png",
-                "Hash": "0"
+                "Hash": "05b6bda4048225637fb66a5d777d4f8e"
 		    }
 		},
 		{
@@ -1430,7 +1430,7 @@
 		    "Adaptive": "true",
 		    "Main": {
 		        "Address": "Eyemask2.png",
-                "Hash": "0"
+                "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
 		    }
 		}
     ],
