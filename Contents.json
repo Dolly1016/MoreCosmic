@@ -523,7 +523,7 @@
 	    {
 	        "Package": "mememura",
 	        "Format": "mememura collection",
-	        "Priority" : "1"
+	        "Priority" : "-1"
 	    }
 	]
 }
