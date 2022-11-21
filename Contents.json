@@ -65,15 +65,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "drawing.png",
-                "Hash": "0"
+                "Hash": "35efa8df0cf868cb65653f956420ea02"
             },
             "Flip": {
                 "Address": "drawing_flip.png",
-                "Hash": "0"
+                "Hash": "2f8d97d6050267c382822bcbbbfc5dd2"
             },
             "Climb": {
                 "Address": "drawing_climb.png",
-                "Hash": "0"
+                "Hash": "9a8e3890e05150eee65ac943e40c2b03"
             }
         },
         {
@@ -85,11 +85,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "flashlight.png",
-                "Hash": "0"
+                "Hash": "fd5473a667713c739d5ec3017db44935"
             },
             "Climb": {
                 "Address": "Empty.png",
-                "Hash": "0"
+                "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
             }
         },
         {
@@ -101,11 +101,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "selfie.png",
-                "Hash": "0"
+                "Hash": "17343826cc3889870944b52864f513a6"
             },
             "Climb": {
                 "Address": "Empty.png",
-                "Hash": "0"
+                "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
             }
         },
         {
@@ -117,11 +117,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "SoapBubble.png",
-                "Hash": "0"
+                "Hash": "8133cdf2fb86c4ceb38d5e1bb13f8a5b"
             },
             "Climb": {
                 "Address": "SoapBubble_climb.png",
-                "Hash": "0"
+                "Hash": "1bcc9ee8b01ee2d6d1fc70405c9402dc"
             }
         },
         {
@@ -133,11 +133,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "TeddyBear.png",
-                "Hash": "0"
+                "Hash": "3286bf4621ec37b91d907407f75a70e3"
             },
             "Climb": {
                 "Address": "TeddyBear_climb.png",
-                "Hash": "0"
+                "Hash": "1e06bd5aba57703f34248411303e53b2"
             }
         }
     ],
