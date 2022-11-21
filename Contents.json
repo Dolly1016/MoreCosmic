@@ -64,15 +64,15 @@
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
-                "Address": "drawing.png"
+                "Address": "drawing.png",
                 "Hash": "0"
             },
             "Flip": {
-                "Address": "drawing_flip.png"
+                "Address": "drawing_flip.png",
                 "Hash": "0"
             },
             "Climb": {
-                "Address": "drawing_climb.png"
+                "Address": "drawing_climb.png",
                 "Hash": "0"
             }
         },
@@ -84,11 +84,11 @@
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
-                "Address": "flashlight.png"
+                "Address": "flashlight.png",
                 "Hash": "0"
             },
             "Climb": {
-                "Address": "Empty.png"
+                "Address": "Empty.png",
                 "Hash": "0"
             }
         },
@@ -100,11 +100,11 @@
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
-                "Address": "selfie.png"
+                "Address": "selfie.png",
                 "Hash": "0"
             },
             "Climb": {
-                "Address": "Empty.png"
+                "Address": "Empty.png",
                 "Hash": "0"
             }
         },
@@ -116,11 +116,11 @@
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
-                "Address": "SoapBubble.png"
+                "Address": "SoapBubble.png",
                 "Hash": "0"
             },
             "Climb": {
-                "Address": "SoapBubble_climb.png"
+                "Address": "SoapBubble_climb.png",
                 "Hash": "0"
             }
         },
@@ -132,11 +132,11 @@
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
-                "Address": "TeddyBear.png"
+                "Address": "TeddyBear.png",
                 "Hash": "0"
             },
             "Climb": {
-                "Address": "TeddyBear_climb.png"
+                "Address": "TeddyBear_climb.png",
                 "Hash": "0"
             }
         }
