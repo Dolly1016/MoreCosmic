@@ -56,9 +56,98 @@
         }
     ],
     "hats": [
+    	{
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Drawing",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "drawing.png"
+                "Hash": "0"
+            },
+            "Flip": {
+                "Address": "drawing_flip.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "drawing_climb.png"
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Flashlight",
+            "Bounce": "true",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "flashlight.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Empty.png"
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Selfie",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "selfie.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "Empty.png"
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Soap Bubble",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "SoapBubble.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "SoapBubble_climb.png"
+                "Hash": "0"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Teddy Bear",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "TeddyBear.png"
+                "Hash": "0"
+            },
+            "Climb": {
+                "Address": "TeddyBear_climb.png"
+                "Hash": "0"
+            }
+        }
     ],
     "visors": [
     ],
     "packages": [
-	]
+            {
+                "Package": "R1Hats",
+                "Format": "R1 Hats",
+                "Priority" : "1"
+            }
+    ]
 }
