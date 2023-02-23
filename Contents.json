@@ -142,11 +142,34 @@
         }
     ],
     "visors": [
+        {
+            "Author": "Dolly",
+            "Package": "NoSCollection",
+            "Name": "Now Loading...",
+            "Adaptive": "false",
+            "FPS":"8",
+            "BehindHat":"true",
+            "Main": {
+                "Address": "NowLoading.png",
+                "Length":"8",
+                "Hash" : "de4acc616c28dcc9c052482bdb55e041"
+            },
+            "Flip": {
+                "Address": "NowLoading_Flip.png",
+                "Length":"8",
+                "Hash" : "4b5b419c7ec7c2227dc46f385269302b"
+            }
+        }
     ],
     "packages": [
             {
                 "Package": "R1Hats",
                 "Format": "R1 Hats",
+                "Priority" : "2"
+            },
+            {
+                "Package": "NoSCollection",
+                "Format": "NoS Collection",
                 "Priority" : "1"
             }
     ]
