@@ -139,6 +139,36 @@
                 "Address": "TeddyBear_climb.png",
                 "Hash": "1e06bd5aba57703f34248411303e53b2"
             }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Snowman",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "snowman_adaptive.png"
+            },
+            "Climb": {
+                "Address": "snowman_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Runner",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Address": "runner_adaptive.png"
+            },
+            "Flip": {
+                "Address": "runner_flip_adaptive.png"
+            },
+            "Climb": {
+                "Address": "runner_climb_adaptive.png"
+            }
         }
     ],
     "visors": [
