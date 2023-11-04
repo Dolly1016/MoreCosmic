@@ -147,9 +147,11 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Main": {
+                "Hash" : "-",
                 "Address": "snowman_adaptive.png"
             },
             "Climb": {
+                "Hash" : "-",
                 "Address": "snowman_climb_adaptive.png"
             }
         },
@@ -161,13 +163,33 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
+                "Hash" : "-",
                 "Address": "runner_adaptive.png"
             },
             "Flip": {
+                "Hash" : "-",
                 "Address": "runner_flip_adaptive.png"
             },
             "Climb": {
+                "Hash" : "-",
                 "Address": "runner_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Penguin", 
+            "Bounce": "true",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "IsSkinny" : "true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "penguin.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "penguin_climb.png"
             }
         }
     ],
