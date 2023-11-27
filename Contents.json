@@ -191,6 +191,22 @@
                 "Hash" : "-",
                 "Address": "penguin_climb.png"
             }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "swimring",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Swimring.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Swimring_Climb.png"
+            }
         }
     ],
     "visors": [
