@@ -147,11 +147,11 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "14a53904edc193142b3dc696b55c1628",
                 "Address": "snowman_adaptive.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "fe2862417713571dc1f18fd02b5bfb37",
                 "Address": "snowman_climb_adaptive.png"
             }
         },
@@ -163,15 +163,15 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "902ca8bc3c1c6a73eccc9af0d76c75c6",
                 "Address": "runner_adaptive.png"
             },
             "Flip": {
-                "Hash" : "-",
+                "Hash" : "427f76060392a36bf1e1a767b373c3c2",
                 "Address": "runner_flip_adaptive.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "9e2f961512fec95f151e28714f9a3b07",
                 "Address": "runner_climb_adaptive.png"
             }
         },
@@ -184,28 +184,264 @@
             "HideHands":"true",
             "IsSkinny" : "true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "5d6ca20b653c53ce88d621594bea1d1b",
                 "Address": "penguin.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "7f13625346066ab927781ddfcc3022d8",
                 "Address": "penguin_climb.png"
             }
         },
         {
             "Author": "R1",
             "Package": "R1Hats",
-            "Name" : "swimring",
+            "Name" : "Swimring",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "3b396d06e081866a064810eeaafa6404",
+                "Address": "Swimring.png"
+            },
+            "Climb": {
+                "Hash" : "0b6ac1a3ed44e8226e025b143ef56226",
+                "Address": "Swimring_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Colorcone",
+            "Bounce": "true",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Colorcone.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Colorcone_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Crown",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Crown.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Crown_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Elf",
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
                 "Hash" : "-",
-                "Address": "Swimring.png"
+                "Address": "Elf.png"
+            },
+            "Back": {
+                "Hash" : "-",
+                "Address": "Elf_Back.png"
             },
             "Climb": {
                 "Hash" : "-",
-                "Address": "Swimring_Climb.png"
+                "Address": "Elf_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Jewelry",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Jewelry.png"
+            },
+            "Move": {
+                "Hash" : "-",
+                "Address": "Jewelry_Flip.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Jewelry_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Light",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Light.png"
+            },
+            "Back": {
+                "Hash" : "-",
+                "Address": "Light_Back.png"
+            },
+            "Move": {
+                "Hash" : "-",
+                "Address": "Light_Flip.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Light_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Lightsaber",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Lightsaber.png"
+            },
+            "Back": {
+                "Hash" : "-",
+                "Address": "Lightsaber_Back.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Lightsaber_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Mushroom",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Mushroom.png"
+            },
+            "Move": {
+                "Hash" : "-",
+                "Address": "Mushroom_Flip.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Mushroom_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Oops!",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Oops!.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Postbox",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Postbox.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Postbox_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Presents",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Presents.png"
+            },
+            "Flip": {
+                "Hash" : "-",
+                "Address": "Presents_Flip.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Presents_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Tall",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Tall.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Tall_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Tissue",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Tissue.png"
+            },
+            "Move": {
+                "Hash" : "-",
+                "Address": "Tissue_Flip.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Tissue_Climb.png"
+            }
+        },
+        {
+            "Author": "R1",
+            "Package": "R1Hats",
+            "Name" : "Moai",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "-",
+                "Address": "Moai.png"
+            },
+            "Climb": {
+                "Hash" : "-",
+                "Address": "Moai_Climb.png"
             }
         }
     ],
