@@ -417,11 +417,11 @@
             "HideHands":"true",
             "Main": {
                 "Hash" : "-",
-                "Address": "Tissue.png"
+                "Address": "Tissue_Flip.png"
             },
             "Move": {
                 "Hash" : "-",
-                "Address": "Tissue_Flip.png"
+                "Address": "Tissue.png"
             },
             "Climb": {
                 "Hash" : "-",
