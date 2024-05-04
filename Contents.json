@@ -363,6 +363,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"true",
+            "IsSkinny" : "true",
             "Main": {
                 "Hash" : "-",
                 "Address": "Postbox.png"
@@ -399,6 +400,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"true",
+            "IsSkinny" : "true",
             "Main": {
                 "Hash" : "-",
                 "Address": "Tall.png"
@@ -435,6 +437,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"true",
+            "IsSkinny" : "true",
             "Main": {
                 "Hash" : "-",
                 "Address": "Moai.png"
