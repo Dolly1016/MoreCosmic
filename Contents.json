@@ -216,11 +216,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "12f0ee88104b4647d692978f073af597",
                 "Address": "Colorcone.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "4034300c00f2f980ab46e1a311f2d86f",
                 "Address": "Colorcone_Climb.png"
             }
         },
@@ -232,11 +232,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "7de50c5eb649287f7c27da4300a63263",
                 "Address": "Crown.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "42f9245ae7174797c340368a36914db1",
                 "Address": "Crown_Climb.png"
             }
         },
@@ -248,15 +248,15 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "95a58b47a6b5400ceb261844d5c58f4f",
                 "Address": "Elf.png"
             },
             "Back": {
-                "Hash" : "-",
+                "Hash" : "38e0975969998d017696ef6d49ea86a4",
                 "Address": "Elf_Back.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "ea44185ef8a63591d8835b32122f7c59",
                 "Address": "Elf_Climb.png"
             }
         },
@@ -268,15 +268,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "99a2ceb4dfe06a88030b5e2d0efe6fb6",
                 "Address": "Jewelry.png"
             },
             "Move": {
-                "Hash" : "-",
+                "Hash" : "bf082e75d18d86b0491ecc4ac2a27c6b",
                 "Address": "Jewelry_Flip.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "4124d76bc281a9a1d466c185e57c3e37",
                 "Address": "Jewelry_Climb.png"
             }
         },
@@ -288,19 +288,19 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "cb55df393a156b77ea93ede49d354cbd",
                 "Address": "Light.png"
             },
             "Back": {
-                "Hash" : "-",
+                "Hash" : "7f96c0e402e5323018883fb901e74d85",
                 "Address": "Light_Back.png"
             },
             "Move": {
-                "Hash" : "-",
+                "Hash" : "b258ff250f0deb22862f60911cb39a79",
                 "Address": "Light_Flip.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "491e196a7f4aba942fcabb5cfbc4f973",
                 "Address": "Light_Climb.png"
             }
         },
@@ -312,15 +312,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "46c75e64959f3eb1436b13454a081692",
                 "Address": "Lightsaber.png"
             },
             "Back": {
-                "Hash" : "-",
+                "Hash" : "56006877abee20cae3ec1e6d0f8ee134",
                 "Address": "Lightsaber_Back.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "9fa57d44c409e395632c57fa64baaecb",
                 "Address": "Lightsaber_Climb.png"
             }
         },
@@ -332,15 +332,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "66a17510a3773598f45182e893621a00",
                 "Address": "Mushroom.png"
             },
             "Move": {
-                "Hash" : "-",
+                "Hash" : "ba8695c354e53a1dba4c8263684a5acf",
                 "Address": "Mushroom_Flip.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "e40cec6cd4cc30e2d7a64052e1e09261",
                 "Address": "Mushroom_Climb.png"
             }
         },
@@ -352,7 +352,7 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "1901506dfb3adacfbc94a544e3e7cc4e",
                 "Address": "Oops!.png"
             }
         },
@@ -365,11 +365,11 @@
             "HideHands":"true",
             "IsSkinny" : "true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "cd9c87a83ab918f015880126b2016c3e",
                 "Address": "Postbox.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "ad89d68cb4b743e4ac0bb4f5b507d89f",
                 "Address": "Postbox_Climb.png"
             }
         },
@@ -381,15 +381,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "ae204aea82192a542adde9267702c1ad",
                 "Address": "Presents.png"
             },
             "Flip": {
-                "Hash" : "-",
+                "Hash" : "fc380e4d35a2ed54d6cbd4f36cd349b0",
                 "Address": "Presents_Flip.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "c9db7d9fd0ff53ea5308e5fc4dd28e32",
                 "Address": "Presents_Climb.png"
             }
         },
@@ -402,11 +402,11 @@
             "HideHands":"true",
             "IsSkinny" : "true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "4a5d73baa8f49c193c1047f25a7a5c0a",
                 "Address": "Tall.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "7211bcfcc07d989b6da587d0497435f6",
                 "Address": "Tall_Climb.png"
             }
         },
@@ -418,15 +418,15 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "a7f89ac1d831a3ac689be7d119ddcc1a",
                 "Address": "Tissue_Flip.png"
             },
             "Move": {
-                "Hash" : "-",
+                "Hash" : "6c17a3c55080e0653db4e9f9b5bf12ba",
                 "Address": "Tissue.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "f69d5b0154d8b3b7409e0a0d7004e680",
                 "Address": "Tissue_Climb.png"
             }
         },
@@ -439,11 +439,11 @@
             "HideHands":"true",
             "IsSkinny" : "true",
             "Main": {
-                "Hash" : "-",
+                "Hash" : "f5d73c2b919bb10e3359cd04e8f25c04",
                 "Address": "Moai.png"
             },
             "Climb": {
-                "Hash" : "-",
+                "Hash" : "4e2f9be56c563c0cdd90a1eec31cf8f0",
                 "Address": "Moai_Climb.png"
             }
         }
