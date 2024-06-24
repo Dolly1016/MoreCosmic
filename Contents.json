@@ -466,6 +466,16 @@
                 "Length":"8",
                 "Hash" : "4b5b419c7ec7c2227dc46f385269302b"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "NoSCollection",
+            "Name": "Dolly",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Dolly.png",
+                "Hash": "-"
+            }
         }
     ],
     "packages": [
