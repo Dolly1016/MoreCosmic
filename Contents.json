@@ -183,6 +183,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "IsSkinny" : "true",
+            "Tags" : ["animal"],
             "Main": {
                 "Hash" : "5d6ca20b653c53ce88d621594bea1d1b",
                 "Address": "penguin.png"
