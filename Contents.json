@@ -146,6 +146,7 @@
             "Name" : "Snowman",
             "Bounce": "false",
             "Adaptive": "true",
+            "SeekerCostume": "false",	
             "Main": {
                 "Hash" : "14a53904edc193142b3dc696b55c1628",
                 "Address": "snowman_adaptive.png"
@@ -183,6 +184,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "IsSkinny" : "true",
+            "SeekerCostume": "false",	
             "Tags" : ["animal"],
             "Main": {
                 "Hash" : "5d6ca20b653c53ce88d621594bea1d1b",
@@ -352,6 +354,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
+            "SeekerCostume": "false",	
             "Main": {
                 "Hash" : "1901506dfb3adacfbc94a544e3e7cc4e",
                 "Address": "Oops!.png"
@@ -365,6 +368,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "IsSkinny" : "true",
+            "SeekerCostume": "false",	
             "Main": {
                 "Hash" : "cd9c87a83ab918f015880126b2016c3e",
                 "Address": "Postbox.png"
@@ -439,6 +443,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "IsSkinny" : "true",
+            "SeekerCostume": "false",	
             "Main": {
                 "Hash" : "f5d73c2b919bb10e3359cd04e8f25c04",
                 "Address": "Moai.png"
