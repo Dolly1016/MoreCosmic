@@ -184,7 +184,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "IsSkinny" : "true",
-            "SeekerCostume": "false",	
+            "SeekerCostume": "false",
             "Tags" : ["animal"],
             "Main": {
                 "Hash" : "5d6ca20b653c53ce88d621594bea1d1b",
@@ -461,7 +461,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "faedd30914b62753f494e0b77440075e",
                 "Address": "vocal_adaptive.png"
             }
         },
@@ -473,11 +473,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "c9616d8accc99ae542a204f1c9f23862",
                 "Address": "trap_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "2744644e2e0c9f966bd903a7a4dfb400",
                 "Address": "trap_climb_adaptive.png"
             }
         },
@@ -489,15 +489,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "d823552f989fc6dd195d1e57b03969f3",
                 "Address": "BOX_adaptive.png"
             },
             "Back": {
-                "Hash" : "",
+                "Hash" : "e2eb0ce9e6c79357002a701eeb62cb3c",
                 "Address": "BOX_back_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "f18b14572d827065540a8571cd965417",
                 "Address": "BOX_climb_adaptive.png"
             }
         },
@@ -509,11 +509,11 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "117ff4a6ff90f4ca6f713eee97f92aee",
                 "Address": "chu-ni_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "df40f18c252c6b5b0a6ad46224152c1f",
                 "Address": "chu-ni_climb_adaptive.png"
             }
         },
@@ -525,11 +525,11 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "9c24330884fe6193f6342cb7d8e8a2d3",
                 "Address": "doll_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "7565424fc6532bbbd09aae374329f36a",
                 "Address": "doll_climb_adaptive.png"
             }
         },
@@ -542,11 +542,11 @@
             "HideHands":"false",
             "IsSkinny": "true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "e6ed3b0fc2253f928affe2c3d9e89c91",
                 "Address": "enoki_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "076e6c4ba3067f4f936a5039782d5fe0",
                 "Address": "enoki_climb_adaptive.png"
             }
         },
@@ -557,8 +557,9 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
+            "Tags" : ["music.instrument"],
             "Main": {
-                "Hash" : "",
+                "Hash" : "496db53ab061b4518e473cd0db5ab6b9",
                 "Address": "guitar_adaptive.png"
             }
         },
@@ -569,16 +570,17 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
+            "Tags" : ["animal"],
             "Main": {
-                "Hash" : "",
+                "Hash" : "4b77e09189d8ae0455ea38b9b377a42b",
                 "Address": "hulifox_adaptive.png"
             },
             "Back": {
-                "Hash" : "",
+                "Hash" : "1aa854751609fc45bb84a76aebe2644e",
                 "Address": "hulifox_back_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "0c56cd2649c2282b9f88ed4cc9a6ad4d",
                 "Address": "hulifox_climb_adaptive.png"
             }
         },
@@ -590,11 +592,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "e22b3f618797257c798e7b13bcedc61b",
                 "Address": "immoralist_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "55481e6d1b629b14bb945c2e9fdb0909",
                 "Address": "immoralist_climb_adaptive.png"
             },
             "OnButton" : {
@@ -611,11 +613,11 @@
             "HideHands":"false",
             "IsHidden": "true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "40af1ddf81d4af2dd05f3fa34649760f",
                 "Address": "immoralist_flip_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "55481e6d1b629b14bb945c2e9fdb0909",
                 "Address": "immoralist_climb_adaptive.png"
             },
             "OnButton" : {
@@ -631,15 +633,15 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "cfbaa8282ce82ddbb5ebd0bd56b39aa7",
                 "Address": "kendama_flip_bounce_adaptive.png"
             },
             "Move": {
-                "Hash" : "",
+                "Hash" : "d772c2572dd1ca52e299f520f62d85c6",
                 "Address": "kendama_bounce_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "e192035f66ba24f67141bf3a8132a524",
                 "Address": "kendama_climb_adaptive.png"
             }
         },
@@ -651,11 +653,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "8aa0dfd301485aef0bde69e602566a45",
                 "Address": "swan_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "9f7c24690df592076b2c4fe8bf00bd6e",
                 "Address": "swan_climb_adaptive.png"
             }
         },
@@ -668,11 +670,11 @@
             "HideHands":"false",
             "Main": {
                 "Hash" : "",
-                "Address": "swan2_adaptive.png"
+                "Address": "swan2.png"
             },
             "Climb": {
                 "Hash" : "",
-                "Address": "swan2_climb_adaptive.png"
+                "Address": "swan2_climb.png"
             }
         },
         {
@@ -683,11 +685,11 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "7b732fd3c209383678c03f3af966da3f",
                 "Address": "syureneko_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "98fcb2b061ad0ff238ac054417607db6",
                 "Address": "syureneko_climb_adaptive.png"
             },
             "OnButton" : {
@@ -704,11 +706,11 @@
             "HideHands":"false",
             "IsHidden": "true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "bdf8bfd2ea982d09c871cb2343e71ecd",
                 "Address": "syureneko_flip_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "98fcb2b061ad0ff238ac054417607db6",
                 "Address": "syureneko_climb_adaptive.png"
             },
             "OnButton" : {
@@ -724,11 +726,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "11eadd3f5bdc4adfa520ba334e2c752d",
                 "Address": "takenoko_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "77f6b174125bcb55a0759829217b61ce",
                 "Address": "takenoko_climb_adaptive.png"
             }
         }
