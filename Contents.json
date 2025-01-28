@@ -669,11 +669,11 @@
             "Adaptive": "false",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "43cdbea02825a89001c301a1d98ab8b5",
                 "Address": "swan2.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "4ab2cd13d392301f74a479d36917113d",
                 "Address": "swan2_climb.png"
             }
         },
