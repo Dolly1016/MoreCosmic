@@ -452,6 +452,285 @@
                 "Hash" : "4e2f9be56c563c0cdd90a1eec31cf8f0",
                 "Address": "Moai_Climb.png"
             }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "ヴォーカル",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "vocal_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "トラップ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "trap_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "trap_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "BOX",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "BOX_adaptive.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "BOX_back_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "BOX_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "厨二病",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "chu-ni_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "chu-ni_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "人形遣い",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "doll_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "doll_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "えのき",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "IsSkinny": "true",
+            "Main": {
+                "Hash" : "",
+                "Address": "enoki_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "enoki_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "ギター",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "guitar_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "妖狐",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "hulifox_adaptive.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "hulifox_back_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "hulifox_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "背徳者",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "immoralist_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "immoralist_climb_adaptive.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "背徳者Alternative"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "背徳者Alternative",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "IsHidden": "true",
+            "Main": {
+                "Hash" : "",
+                "Address": "immoralist_flip_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "immoralist_climb_adaptive.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "背徳者"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "けん玉",
+            "Bounce": "true",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "kendama_flip_bounce_adaptive.png"
+            },
+            "Move": {
+                "Hash" : "",
+                "Address": "kendama_bounce_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "kendama_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "スワン",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "swan_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "swan_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "スワン2",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "swan2_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "swan2_climb_adaptive.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "シュレディンガーの猫",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "syureneko_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "syureneko_climb_adaptive.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "シュレディンガーの猫Alternative"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "シュレディンガーの猫Alternative",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "IsHidden": "true",
+            "Main": {
+                "Hash" : "",
+                "Address": "syureneko_flip_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "syureneko_climb_adaptive.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "シュレディンガーの猫"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "たけのこ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "takenoko_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "takenoko_climb_adaptive.png"
+            }
         }
     ],
     "visors": [
@@ -488,6 +767,11 @@
             {
                 "Package": "R1Hats",
                 "Format": "R1 Hats",
+                "Priority" : "2"
+            },
+            {
+                "Package": "EnokiHats",
+                "Format": "Enoki Hats",
                 "Priority" : "2"
             },
             {
