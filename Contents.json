@@ -733,6 +733,22 @@
                 "Hash" : "77f6b174125bcb55a0759829217b61ce",
                 "Address": "takenoko_climb_adaptive.png"
             }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "牛丼",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "gyudon_Main.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "gyudon_climb.png"
+            }
         }
     ],
     "visors": [
