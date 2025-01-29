@@ -758,11 +758,11 @@
             "Adaptive": "false",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "537dba3421fa89c3fb648f158fb86efb",
                 "Address": "omochi.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "5fc300d69e049075397c51a7d4e16650",
                 "Address": "omochi_climb.png"
             }
         }
