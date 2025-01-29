@@ -801,12 +801,12 @@
             {
                 "Package": "R1Hats",
                 "Format": "R1 Hats",
-                "Priority" : "2"
+                "Priority" : "450"
             },
             {
                 "Package": "EnokiHats",
                 "Format": "Enoki Hats",
-                "Priority" : "2"
+                "Priority" : "450"
             },
             {
                 "Package": "NoSCollection",
