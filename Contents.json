@@ -749,6 +749,22 @@
                 "Hash" : "3470876970a5de13aa38e909b9b70b16",
                 "Address": "gyudon_Climb.png"
             }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "オモチ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "omochi.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "omochi_climb.png"
+            }
         }
     ],
     "visors": [
