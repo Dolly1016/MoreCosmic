@@ -774,11 +774,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "5bf30890978018668f2c4c7d7fe75e36",
                 "Address": "mosamosa_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "27623c7486752e01ea0bab8a7d975034",
                 "Address": "mosamosa_adaptive_climb.png"
             }
         },
@@ -790,15 +790,15 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "6732db8d9ab7bd19058ff5d2a0b04cd1",
                 "Address": "medama_adaptive.png"
             },
             "Flip": {
-                "Hash" : "",
+                "Hash" : "5bf4a337e98c7a3aac6f87230a83bad3",
                 "Address": "medama_adaptive_flip.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "84b467941e6767ed88e26a7a25450b80",
                 "Address": "medama_adaptive_climb.png"
             }
         },
@@ -810,11 +810,11 @@
             "Adaptive": "true",
             "HideHands":"true",
             "Main": {
-                "Hash" : "",
+                "Hash" : "faed0e8db0f1c8734055caaad3df39c7",
                 "Address": "deme_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "710c84c4a1ec60995265501d1650e540",
                 "Address": "deme_adaptive_climb.png"
             }
         },
@@ -826,11 +826,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "1ff89602ccb26322826e68ba3f71a879",
                 "Address": "gao_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "c59cc5b065b44f980a11a1e96f7e1d66",
                 "Address": "gao_adaptive_climb.png"
             }
         },
@@ -842,11 +842,11 @@
             "Adaptive": "true",
             "HideHands":"false",
             "Main": {
-                "Hash" : "",
+                "Hash" : "d3e14432b415f37acc0d58932504058a",
                 "Address": "bunny_adaptive.png"
             },
             "Climb": {
-                "Hash" : "",
+                "Hash" : "9b786c2b51a5a57dfb97f03f1517cac8",
                 "Address": "bunny_adaptive_climb.png"
             }
         }
