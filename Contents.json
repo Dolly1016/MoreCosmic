@@ -570,7 +570,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
-            "Tags" : ["animal"],
+            "Tags" : ["animal", "role.spectre"],
             "Main": {
                 "Hash" : "4b77e09189d8ae0455ea38b9b377a42b",
                 "Address": "hulifox_adaptive.png"
