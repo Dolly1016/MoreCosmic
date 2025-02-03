@@ -749,6 +749,31 @@
             "Climb": {
                 "Hash" : "",
                 "Address": "jekyll_hyde_adaptive_climb.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "ジキルとハイドAlternative"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "ジキルとハイドAlternative",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "IsHidden": "true",
+            "Main": {
+                "Hash" : "",
+                "Address": "jekyll_hyde_adaptive_flip.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "jekyll_hyde_adaptive_climb.png"
+            },
+            "OnButton" : {
+                "Author" : "えのき",
+                "Name" : "ジキルとハイド"
             }
         },
         {
