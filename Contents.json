@@ -826,6 +826,23 @@
             }
         },
         {
+			"Adaptive" : False,
+			"Bounce" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"Main" : {
+				"Hash" : "a1b39d7b882c3c65fc5bd448541bed61",
+				"Address" : "tGE44k_Main.png",
+			},
+			"Climb" : {
+				"Hash" : "bf2774caf71c453c3690408cdc72c0ca",
+				"Address" : "tGE44k_Climb.png",
+			},
+			"Name" : "バウム",
+			"Author" : "えのき",
+			"Package" : "EnokiHats"
+		},
+        {
             "Author": "めめた",
             "Package": "MemetaHats",
             "Name" : "モサモサ",
