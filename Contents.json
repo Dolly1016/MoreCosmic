@@ -538,6 +538,23 @@
             "Package": "EnokiHats",
             "Name" : "えのき",
             "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "IsSkinny": "true",
+            "Main": {
+                "Hash" : "",
+                "Address": "enoki.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "enoki_climb.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
+            "Name" : "えのき(プレイヤーカラー)",
+            "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
             "IsSkinny": "true",
@@ -721,10 +738,27 @@
         {
             "Author": "えのき",
             "Package": "EnokiHats",
+            "Name" : "ジキルとハイド",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "jekyll_hyde_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "jekyll_hyde_adaptive_climb.png"
+            }
+        },
+        {
+            "Author": "えのき",
+            "Package": "EnokiHats",
             "Name" : "たけのこ",
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
+            "IsSkinny":"true",
             "Main": {
                 "Hash" : "11eadd3f5bdc4adfa520ba334e2c752d",
                 "Address": "takenoko_adaptive.png"
@@ -825,6 +859,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands":"false",
+            "IsSkinny":"true",
             "Main": {
                 "Hash" : "1ff89602ccb26322826e68ba3f71a879",
                 "Address": "gao_adaptive.png"
@@ -848,6 +883,464 @@
             "Climb": {
                 "Hash" : "9b786c2b51a5a57dfb97f03f1517cac8",
                 "Address": "bunny_adaptive_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "姫",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "hime.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "hime_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "殿",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "otono.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "otono_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "アメリカ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "America.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Amelica_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "イギリス",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "England.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "England_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ドイツ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Germany.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "Germany_back.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Germany_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ギリシャ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Greece.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "Greece_back.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Greece_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "イタリア",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Italy.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Italy_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ジャマイカ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Jamaica.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Jamaica_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "日本",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Japan.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "Japan_back.png"
+            },
+            "BackFlip": {
+                "Hash" : "",
+                "Address": "Japan_back_flip.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Japan_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "パキスタン",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Pakistan.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Pakistan_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "パナマ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Panama.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Panama_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ロシア",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Russia.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Russia_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "セーシェル",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Seychelles.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Seychelles_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "スペイン",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Spain.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Spain_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "スリランカ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Srilanka.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Srilanka_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "トルコ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Turkey.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Turkey_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ウクライナ",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Ukraine.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Ukraine_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "パンダ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "IsSkinny":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Panda_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Panda_adaptive_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "カメラクルー",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Cameracrew_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Cameracrew_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "ディレクタークルー",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Directorcrew_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Directorcrew_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "照明クルー",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Lightcrew_adaptive.png"
+            },
+            "Back": {
+                "Hash" : "",
+                "Address": "Lightcrew_behind.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Lightcrew_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "音響クルー",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Soundcrew_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Soundcrew_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "雲",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Cloud.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Cloud_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "空腹",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Hungry_adaptive.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Hungry_adaptive_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "魔法のじゅうたん",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "Magiccarpet.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Magiccarpet_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "UFO",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"false",
+            "Main": {
+                "Hash" : "",
+                "Address": "UFO.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "UFO_climb.png"
+            }
+        },
+        {
+            "Author": "9on",
+            "Package": "9onHats",
+            "Name" : "カジノチップ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"false",
+            "IsSkinny":"true",
+            "Main": {
+                "Hash" : "",
+                "Address": "Betcoin_adaptive.png"
+            },
+            "Flip": {
+                "Hash" : "",
+                "Address": "Betcoin_adaptive_flip.png"
+            },
+            "Climb": {
+                "Hash" : "",
+                "Address": "Betcoin_adaptive_climb.png"
             }
         }
     ],
@@ -895,6 +1388,11 @@
             {
                 "Package": "MemetaHats",
                 "Format": "Memeta Hats",
+                "Priority" : "450"
+            },
+            {
+                "Package": "9onHats",
+                "Format": "9on Hats",
                 "Priority" : "450"
             },
             {
