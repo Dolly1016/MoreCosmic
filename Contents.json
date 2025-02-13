@@ -842,6 +842,23 @@
 			"Author" : "えのき",
 			"Package" : "EnokiHats"
 		},
+		{
+			"Main" : {
+				"Hash" : "f78b1577969138c98002f311019bd09e",
+				"Address" : "iD6UJC42_Main.png",
+			},
+			"Climb" : {
+				"Hash" : "c4a59c662559e1e48f85be690fe0af3e",
+				"Address" : "iD6UJC42_Climb.png",
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"Name" : "月の髪飾り",
+			"Author" : "えのき",
+			"Package" : "EnokiHats"
+		},
         {
             "Author": "めめた",
             "Package": "MemetaHats",
