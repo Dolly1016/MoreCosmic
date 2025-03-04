@@ -1456,6 +1456,18 @@
                 "ExAddress": "NiceEx.png",
                 "ExIsFront": "true"
             }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "NoSCollection",
+            "Name": "Bad",
+            "FPS":"1",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "Bad.png",
+                "ExAddress": "Bad.png",
+                "ExIsFront": "true"
+            }
         }
     ],
     "packages": [
