@@ -1439,7 +1439,7 @@
             "Package": "NoSCollection",
             "Name": "TestStamp",
             "FPS":"1",
-            "Main": {
+            "Image": {
                 "Address": "test_a.png",
                 "ExAddress": "test_m.png"
             }
