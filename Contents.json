@@ -1433,6 +1433,21 @@
             }
         }
     ],
+    "stamps": [
+        {
+            "Author": "Dolly",
+            "Package": "NoSCollection",
+            "Name": "TestStamp",
+            "AdaptiveInFront": "false",
+            "FPS":"8",
+            "Main": {
+                "Address": "test_m.png"
+            },
+            "Adaptive": {
+                "Address": "test_a.png"
+            }
+        }
+    ],
     "packages": [
             {
                 "Package": "R1Hats",
