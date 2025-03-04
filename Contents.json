@@ -1465,7 +1465,7 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "Bad.png",
-                "ExAddress": "Bad.png",
+                "ExAddress": "BadEx.png",
                 "ExIsFront": "true"
             }
         }
