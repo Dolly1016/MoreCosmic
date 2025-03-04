@@ -1438,13 +1438,10 @@
             "Author": "Dolly",
             "Package": "NoSCollection",
             "Name": "TestStamp",
-            "AdaptiveInFront": "false",
-            "FPS":"8",
+            "FPS":"1",
             "Main": {
-                "Address": "test_m.png"
-            },
-            "Adaptive": {
-                "Address": "test_a.png"
+                "Address": "test_a.png",
+                "ExAddress": "test_m.png"
             }
         }
     ],
