@@ -1442,7 +1442,9 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "Nice.png",
+                "Hash" : "",
                 "ExAddress": "NiceEx.png",
+                "ExHash" : "",
                 "ExIsFront": "true"
             }
         },
@@ -1454,7 +1456,9 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "Bad.png",
+                "Hash" : "",
                 "ExAddress": "BadEx.png",
+                "ExHash" : "",
                 "ExIsFront": "true"
             }
         },
@@ -1466,7 +1470,9 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "Pien.png",
+                "Hash" : "",
                 "ExAddress": "PienEx.png",
+                "ExHash" : "",
                 "ExIsFront": "true"
             }
         }
