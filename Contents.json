@@ -1435,17 +1435,6 @@
     ],
     "stamps": [
         {
-            "Author": "Dolly",
-            "Package": "NoSCollection",
-            "Name": "TestStamp",
-            "FPS":"1",
-            "Adaptive" : "true",
-            "Image": {
-                "Address": "test_a.png",
-                "ExAddress": "test_m.png"
-            }
-        },
-        {
             "Author": "セオノ",
             "Package": "NoSCollection",
             "Name": "Nice!",
@@ -1466,6 +1455,18 @@
             "Image": {
                 "Address": "Bad.png",
                 "ExAddress": "BadEx.png",
+                "ExIsFront": "true"
+            }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "NoSCollection",
+            "Name": "Pien",
+            "FPS":"1",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "Pien.png",
+                "ExAddress": "PienEx.png",
                 "ExIsFront": "true"
             }
         }
