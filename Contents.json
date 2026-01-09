@@ -453,6 +453,31 @@
                 "Address": "Moai_Climb.png"
             }
         },
+		{
+			"Main" : {
+				"Hash" : "422b7294c0043c1c4421b3384da6248f",
+				"Address" : "Relic_adaptive.png",
+				"ExIsFront" : False,
+				"MaskHash" : "6ca3295f80a56258e4902ce8a5e5b9d4",
+				"MaskAddress" : "Relic_mask.png"
+			},
+			"Climb" : {
+				"Hash" : "56a24326119ba02f1b62167d1cf8b204",
+				"Address" : "Relic_climb_adaptive.png",
+				"ExIsFront" : False,
+				"MaskHash" : "c24691eaaa3bf621a3d1893ec7b93d5c",
+				"MaskAddress" : "Relic_climb_mask.png"
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "Relic",
+			"Author" : "R1",
+			"Package" : "R1Hats",
+		},
         {
             "Author": "えのき",
             "Package": "EnokiHats",
