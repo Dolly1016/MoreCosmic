@@ -1458,6 +1458,48 @@
             }
         }
     ],
+    "stamps": [
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "評価 バツ",
+            "Adaptive" : "false",
+            "Image": {
+                "Address": "Quiz0.png",
+                "Hash" : "209334c41917b382dac6569596e4f0",
+            }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "評価 三角",
+            "Adaptive" : "false",
+            "Image": {
+                "Address": "Quiz1.png",
+                "Hash" : "209334c41917b382dac6569596e4f0",
+            }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "評価 マル",
+            "Adaptive" : "false",
+            "Image": {
+                "Address": "Quiz2.png",
+                "Hash" : "209334c41917b382dac6569596e4f0",
+            }
+        },
+        {
+            "Author": "セオノ",
+            "Package": "SeonoStamps",
+            "Name": "評価 花マル",
+            "Adaptive" : "false",
+            "Image": {
+                "Address": "Quiz3.png",
+                "Hash" : "209334c41917b382dac6569596e4f0",
+            }
+        }
+    ],
     "packages": [
             {
                 "Package": "R1Hats",
