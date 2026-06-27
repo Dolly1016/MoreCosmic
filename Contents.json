@@ -1461,7 +1461,7 @@
     "stamps": [
         {
             "Author": "セオノ",
-            "Package": "SeonoStamps",
+            "Package": "NoSCollection",
             "Name": "評価 バツ",
             "Adaptive" : "false",
             "Image": {
@@ -1471,7 +1471,7 @@
         },
         {
             "Author": "セオノ",
-            "Package": "SeonoStamps",
+            "Package": "NoSCollection",
             "Name": "評価 三角",
             "Adaptive" : "false",
             "Image": {
@@ -1481,7 +1481,7 @@
         },
         {
             "Author": "セオノ",
-            "Package": "SeonoStamps",
+            "Package": "NoSCollection",
             "Name": "評価 マル",
             "Adaptive" : "false",
             "Image": {
@@ -1491,7 +1491,7 @@
         },
         {
             "Author": "セオノ",
-            "Package": "SeonoStamps",
+            "Package": "NoSCollection",
             "Name": "評価 花マル",
             "Adaptive" : "false",
             "Image": {
